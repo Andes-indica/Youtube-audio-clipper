@@ -2,7 +2,7 @@
 
 A simple Python tool to extract specific audio segments from YouTube videos.
 
-# purpose
+# Purpose
 Many online websites that extract audio from YouTube may pose privacy or security risks.
 This tool allows you to safely extract audio locally on your own system, ensuring your data remains private.
 
